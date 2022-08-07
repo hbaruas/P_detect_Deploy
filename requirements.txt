@@ -4,3 +4,4 @@ Keras_Preprocessing
 numpy
 tensorflow-cpu
 gunicorn
+pillow
