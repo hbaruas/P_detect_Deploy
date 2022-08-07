@@ -1,0 +1,6 @@
+Flask
+keras
+Keras_Preprocessing
+numpy
+tensorflow
+gunicorn
