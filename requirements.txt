@@ -2,5 +2,5 @@ Flask
 keras
 Keras_Preprocessing
 numpy
-tensorflow-cpu==2.5.0
+tensorflow-cpu
 gunicorn
